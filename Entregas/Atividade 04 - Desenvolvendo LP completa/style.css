@@ -1,0 +1,54 @@
+:root {
+  --primary-color: #ff6600;
+  --secondary-color: #ffffff;
+}
+
+.dark-theme {
+  --primary-color: #000000;
+  --secondary-color: #ffffff; 
+}
+
+  body {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);   
+  }
+  
+  header {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+  }
+  
+  #about {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+  }
+  
+  #services {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+  }
+  
+  #testimonials {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+  }
+  
+  #contact {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+  }
+  
+  footer {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+  }
+  
+  .btn {
+    background-color: var(--primary-color);
+    border-color: var(--secondary-color);
+    color: var(--secondary-color);
+  }
+  
+  .btn:hover {
+    opacity: 0.8;
+  }
