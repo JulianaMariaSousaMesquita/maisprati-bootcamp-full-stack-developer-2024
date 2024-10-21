@@ -1,0 +1,61 @@
+:root {
+    --primary-color: #FF4500; 
+    --secondary-color: #FFFFFF;
+    --dark-bg: #000000;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: var(--primary-color);
+}
+
+header h1 {
+    color: var(--secondary-color);
+}
+
+header nav a {
+    color: var(--secondary-color);
+    text-decoration: none;
+    padding: 10px;
+}
+
+header nav a:hover {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    border-radius: 5px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: var(--primary-color);
+}
+
+section p, section a {
+    color: #000;
+}
+
+footer {
+    background-color: var(--primary-color);
+}
+
+footer p {
+    color: var(--secondary-color);
+}
+
+.btn {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
