@@ -44,7 +44,7 @@ Este programa é voltado para aqueles que aspiram ingressar no desenvolvimento w
 
 ## Duração e Carga Horária
 
-- **Duração**: 6 meses (Abril a Outubro de 2024)
+- **Duração**: 6 meses Turma 1(Abril a Outubro de 2024)/Turma 2(Junho 2024 a  Março de 2025)
 - **Carga Horária**: 260 horas de aulas ao vivo.
 
 ## Pré-Requisitos
